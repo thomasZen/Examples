@@ -16,4 +16,4 @@ A list of random papers and books on different subjects.
 * [The Scientist in the Crib](https://www.amazon.de/Scientist-Crib-Early-Learning-Tells/dp/0688177883/ref=sr_1_1?ie=UTF8&qid=1546176671): How children learn
 * [On Proof and Progress in Mathematics](https://arxiv.org/pdf/math/9404236v1.pdf): How to help people understand (mathematics)
 * [Richard Feynman](https://www.youtube.com/watch?v=GNhlNSLQAFE): How to get excited about understanding the world
-* [Onkel Albert und der Urknall](https://www.amazon.de/Onkel-Albert-Urknall-Geschichte-Schatzinsel/dp/3596800552): Explanation of the theory of relativity for children
+* [The Time and Space of Uncle Albert](https://www.amazon.de/Black-Albert-Russell-Stannard-2005-04-07/dp/B01N8XTJ8W/ref=sr_1_fkmr0_4): Explanation of the theory of relativity for children

@@ -23,6 +23,11 @@ else
   echo "File $file_path does exist!"
 fi
 
+# looping around
+for suffix in "src" "tgt"; do
+  echo "praefix.middle.${suffix}"
+done
+
 # parameter expansion: https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html
 x="100"
 pointer="x"

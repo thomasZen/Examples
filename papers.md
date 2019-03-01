@@ -10,7 +10,7 @@ A list of random papers and books on different subjects.
 * [Contraction Hierarchies](http://algo2.iti.kit.edu/download/diploma_thesis_geisberger.pdf): Preprocessing allows efficient search in static road networks
 * [Map Reduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf): Programming model to process large data sets
 * [Super Scalar Sample Sort](https://pdfs.semanticscholar.org/ed28/17150bcde05f3a81895e821fc90c223c8798.pdf): Designing a sorting algorithm for contemporary computers
-* [Data Compression](http://www.mattmahoney.net/dc/cs200516.pdf): Mainly compressing texts, similar to Language Modelling ([See also](http://www.mattmahoney.net/dc/paq1.pdf))
+* [Data Compression](http://www.mattmahoney.net/dc/cs200516.pdf): Mainly compressing texts, similar to Language Modelling (See also: [PAQ](http://www.mattmahoney.net/dc/paq1.pdf), [Arithmetic Coding](https://en.wikipedia.org/wiki/Arithmetic_coding))
 
 ## Science and Education
 * [The Scientist in the Crib](https://www.amazon.de/Scientist-Crib-Early-Learning-Tells/dp/0688177883/ref=sr_1_1?ie=UTF8&qid=1546176671): How children learn

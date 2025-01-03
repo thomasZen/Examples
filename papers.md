@@ -2,9 +2,13 @@
 A list of random papers and books on different subjects.
 
 ## Machine Learning
-* [HyperNEAT](http://axon.cs.byu.edu/Dan/778/papers/NeuroEvolution/stanley3**.pdf): (Neuro-)Evolution approach for neural networks.
+* [HyperNEAT](http://axon.cs.byu.edu/Dan/778/papers/NeuroEvolution/stanley3**.pdf): (Neuro-)Evolution approach for neural networks
 * [Evolution Strategies](https://arxiv.org/pdf/1703.03864.pdf): Alternative to backpropagation
+* [Entropy Minimization](https://arxiv.org/pdf/2405.05012): Test time learning without external feedback
 * [distill.pub](https://distill.pub/): Interactive Visualizations and Explanations of neural networks
+
+## Neuroscience
+* [Neural Substrate of Prediction and Reward](https://www.science.org/doi/pdf/10.1126/science.275.5306.1593): Temporal difference learning explains activity of dopamine neurons
 
 ## Computer Science
 * [Contraction Hierarchies](http://algo2.iti.kit.edu/download/diploma_thesis_geisberger.pdf): Preprocessing allows efficient search in static road networks

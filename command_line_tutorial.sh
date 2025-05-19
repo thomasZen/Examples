@@ -25,6 +25,7 @@ echo "Our retreat is in $location"
 for i in "file system" "documentation" "loops"; do echo "Learning about $i."; done
 # I have the retina lectures on this computer, let's look at all the pdf files
 for i in ~/Desktop/RetinaLecture/Lecture*/*.pdf; do echo "File $i" ; done  # * matches everything
+# pdftotext is a tool I installed before
 for f in ~/Desktop/RetinaLecture/Lecture*/*.pdf; do pdftotext $f ${f##*/}.txt ; done  # pdftotext converts a pdf file to text, ${f##*/} only keeps the file name
 grep "retina" *.txt | wc -l  # search for the word "retina" in all files, pipe/forward the output to the command wc (word count) and count the lines (-l option)
 

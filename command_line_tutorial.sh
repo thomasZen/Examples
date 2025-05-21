@@ -14,6 +14,7 @@ ls -lh .  # as above with more information (file permissions, file sizes, etc.)
 ls *.sh # only list files with the ending `.sh`
 echo "More file system commands"  # print something
 echo "More file system commands" > a.txt  # > forwards output of command into file
+cat a.txt  # print contents of the file a.txt
 mv a.txt b.txt  # move (or rename) file
 rm b.txt  # remove a file
 cd data/  # change directory
@@ -28,6 +29,7 @@ for i in ~/Desktop/RetinaLecture/Lecture*/*.pdf; do echo "File $i" ; done  # * m
 # pdftotext is a tool I installed before
 for f in ~/Desktop/RetinaLecture/Lecture*/*.pdf; do pdftotext $f ${f##*/}.txt ; done  # pdftotext converts a pdf file to text, ${f##*/} only keeps the file name
 grep "retina" *.txt | wc -l  # search for the word "retina" in all files, pipe/forward the output to the command wc (word count) and count the lines (-l option)
+history  # show previous commands you used
 
 # other helpful commands on cluster
 htop  # processes running on cpu, exit with 'q' (for quit)
